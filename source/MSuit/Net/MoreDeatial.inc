@@ -24,7 +24,7 @@ Group=MoreDetailsMeasure
 ;Substitute=" ":""
 UpdateDivider=-1
 
-;涓�涓鏃跺櫒鐢ㄤ簬寤舵椂
+;一个计时器用于延时
 [Delay]
 measure=calc
 formula=Delay+1

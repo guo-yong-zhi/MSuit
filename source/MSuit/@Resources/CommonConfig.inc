@@ -1,5 +1,5 @@
 [Variables]
-_ThemeColor_=83,64,133
+_ThemeColor_=83,60,56
 _ThemeFont_=GeosansLight
 
 [Rainmeter]
